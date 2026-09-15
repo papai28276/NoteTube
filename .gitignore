@@ -1,0 +1,8 @@
+# NoteTube root
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+dist/
+build/
